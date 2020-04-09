@@ -1,0 +1,15 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>Eight Four Two</name>
+    <description>2 x 800m, 4 x 400m, 8 x 200m. Half-distance recoveries.</description>
+    <category>Nuneaton Harriers</category>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="1610" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+		<IntervalsT Repeat="2" OnDuration="800" OffDuration="400" OnPower="0.98" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="4" OnDuration="400" OffDuration="200" OnPower="1.05" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="7" OnDuration="200" OffDuration="100" OnPower="1.1" OffPower="0.7" pace="0" />
+		<SteadyState Duration="200" Power="1.1" pace="0" />
+        <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+    </workout>
+</workout_file>

@@ -1,0 +1,20 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>Twin Peaks</name>
+    <description>200m to 600m and back twice. 100m recoveries</description>
+    <category>Nuneaton Harriers</category>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="1610" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+        <IntervalsT Repeat="1" OnDuration="200" OffDuration="100" OnPower="1.1" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="400" OffDuration="100" OnPower="1.05" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="600" OffDuration="100" OnPower="1.0" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="400" OffDuration="100" OnPower="1.05" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="200" OffDuration="100" OnPower="1.1" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="400" OffDuration="100" OnPower="1.05" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="600" OffDuration="100" OnPower="1.0" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="400" OffDuration="100" OnPower="1.05" OffPower="0.7" pace="0" />
+		<SteadyState Duration="200" Power="1.1" pace="0" />
+        <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+    </workout>
+</workout_file>
