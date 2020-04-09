@@ -6,11 +6,11 @@
     <sportType>run</sportType>
     <workout>
         <Warmup Duration="1610" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
-        <IntervalsT Repeat="2" OnDuration="800" OffDuration="200" OnPower="0.94" OffPower="0.7" pace="0" />
-		<IntervalsT Repeat="2" OnDuration="800" OffDuration="200" OnPower="0.96" OffPower="0.7" pace="0" />
-		<IntervalsT Repeat="2" OnDuration="800" OffDuration="200" OnPower="0.98" OffPower="0.7" pace="0" />
-		<IntervalsT Repeat="2" OnDuration="800" OffDuration="200" OnPower="1.0" OffPower="0.7" pace="0" />
-		<IntervalsT Repeat="2" OnDuration="800" OffDuration="200" OnPower="1.02" OffPower="0.7" pace="0" />
+        <IntervalsT Repeat="1" OnDuration="800" OffDuration="200" OnPower="0.94" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="800" OffDuration="200" OnPower="0.96" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="800" OffDuration="200" OnPower="0.98" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="800" OffDuration="200" OnPower="1.0" OffPower="0.7" pace="0" />
+		<IntervalsT Repeat="1" OnDuration="800" OffDuration="200" OnPower="1.02" OffPower="0.7" pace="0" />
 		<SteadyState Duration="800" Power="1.04" pace="0" />
         <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
     </workout>
