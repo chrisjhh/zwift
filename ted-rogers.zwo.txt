@@ -1,0 +1,46 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>Ted Rogers</name>
+    <description>5 sets of 300m,200m,100m (3-2-1) with recoveries same as next effort.</description>
+    <category>Nuneaton Harriers</category>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="1610" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+
+		    <SteadyState Duration="300" Power="1.1" pace="0" units="1" />
+        <SteadyState Duration="200" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="200" Power="1.15" pace="0" units="1" />
+        <SteadyState Duration="100" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="100" Power="1.2" pace="0" units="1" />
+        <SteadyState Duration="300" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="300" Power="1.1" pace="0" units="1" />
+        <SteadyState Duration="200" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="200" Power="1.15" pace="0" units="1" />
+        <SteadyState Duration="100" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="100" Power="1.2" pace="0" units="1" />
+        <SteadyState Duration="300" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="300" Power="1.1" pace="0" units="1" />
+        <SteadyState Duration="200" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="200" Power="1.15" pace="0" units="1" />
+        <SteadyState Duration="100" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="100" Power="1.2" pace="0" units="1" />
+        <SteadyState Duration="300" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="300" Power="1.1" pace="0" units="1" />
+        <SteadyState Duration="200" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="200" Power="1.15" pace="0" units="1" />
+        <SteadyState Duration="100" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="100" Power="1.2" pace="0" units="1" />
+        <SteadyState Duration="300" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="300" Power="1.1" pace="0" units="1" />
+        <SteadyState Duration="200" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="200" Power="1.15" pace="0" units="1" />
+        <SteadyState Duration="100" Power="0.65" pace="0" units="1" />
+        <SteadyState Duration="100" Power="1.2" pace="0" units="1" />
+
+        <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+    </workout>
+</workout_file>
