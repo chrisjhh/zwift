@@ -1,0 +1,43 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>The Rack</name>
+    <description>The infamous session known affectionately as "The Rack!" 
+    10 x 400m with diminishing recoveries. In a normal track session this would be done with 90 second down to 10 second recoveries stood at the start-finish line. For this version 30m at slow pace substitutes for the 10 second increments.</description>
+    <category>Nuneaton Harriers</category>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="1610" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+
+		    <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="270" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="240" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="210" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="180" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="120" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="90" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="60" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="30" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        
+
+        <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+    </workout>
+</workout_file>

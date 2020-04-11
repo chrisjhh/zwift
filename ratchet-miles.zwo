@@ -1,0 +1,35 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>Ratchet Miles</name>
+    <description>4 x 1600m with each lap a bit faster than the one before. 400m recovery between sets.</description>
+    <category>Nuneaton Harriers</category>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="1610" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+
+		    <SteadyState Duration="400" Power="0.92" pace="0" units="1" />
+        <SteadyState Duration="400" Power="0.96" pace="0" units="1" />
+        <SteadyState Duration="400" Power="1.0" pace="0" units="1" />
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="270" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="0.92" pace="0" units="1" />
+        <SteadyState Duration="400" Power="0.96" pace="0" units="1" />
+        <SteadyState Duration="400" Power="1.0" pace="0" units="1" />
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="270" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="0.92" pace="0" units="1" />
+        <SteadyState Duration="400" Power="0.96" pace="0" units="1" />
+        <SteadyState Duration="400" Power="1.0" pace="0" units="1" />
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+        <SteadyState Duration="270" Power="0.65" pace="0" units="1" />
+
+        <SteadyState Duration="400" Power="0.92" pace="0" units="1" />
+        <SteadyState Duration="400" Power="0.96" pace="0" units="1" />
+        <SteadyState Duration="400" Power="1.0" pace="0" units="1" />
+        <SteadyState Duration="400" Power="1.04" pace="0" units="1" />
+
+        <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+    </workout>
+</workout_file>
