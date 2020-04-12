@@ -1,0 +1,17 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>Two Times Eight Twos</name>
+    <description>2 sets of 8 x 200m with 100m recoveries. An extra 400m recovery between sets</description>
+    <category>Nuneaton Harriers</category>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="1610" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+
+        <IntervalsT Repeat="8" OnDuration="200" OffDuration="100" OnPower="1.2" OffPower="0.65" pace="0" />
+        <SteadyState Duration="400" Power="0.7" pace="0" />
+        <IntervalsT Repeat="7" OnDuration="200" OffDuration="100" OnPower="1.2" OffPower="0.65" pace="0" />
+		<SteadyState Duration="200" Power="1.2" pace="0" />
+
+        <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+    </workout>
+</workout_file>

@@ -1,0 +1,15 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>Twenty-Five Twos</name>
+    <description>25 x 200m with 100m recoveries</description>
+    <category>Nuneaton Harriers</category>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="1610" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+
+        <IntervalsT Repeat="24" OnDuration="200" OffDuration="100" OnPower="1.04" OffPower="0.7" pace="0" />
+		<SteadyState Duration="200" Power="1.04" pace="0" />
+
+        <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+    </workout>
+</workout_file>
