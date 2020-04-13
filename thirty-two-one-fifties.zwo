@@ -1,0 +1,171 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>Thirty Two One-Fifties</name>
+    <description>32 x 150m with 150m recoveries</description>
+    <category>Nuneaton Harriers</category>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="1610" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+
+        <!-- #1 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #2 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #3 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #4 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #5 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1">
+          <textevent distoffset="5" message="Five sets done!" />
+        </SteadyState>
+
+        <!-- #6 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #7 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #8 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #9 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #10 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1">
+          <textevent distoffset="5" message="Ten sets done!" />
+        </SteadyState>
+
+        <!-- #11 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #12 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #13 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #14 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #15 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1">
+          <textevent distoffset="5" message="Fifteen sets done!" />
+        </SteadyState>
+
+        <!-- #16 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #17 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #18 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #19 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #20 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1">
+          <textevent distoffset="5" message="Twenty sets done!" />
+        </SteadyState>
+
+        <!-- #21 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #22 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #23 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #24 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #25 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1">
+          <textevent distoffset="5" message="Twenty-five sets done! Ten to go!" />
+        </SteadyState>
+
+        <!-- #26 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #27 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #28 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #29 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #30 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1">
+          <textevent distoffset="5" message="Thirty sets done! Five to go!" />
+        </SteadyState>
+
+        <!-- #31 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #32 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1"/>
+
+        <!-- #33 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1">
+          <textevent distoffset="5" message="Just two more to go!" />
+          <textevent distoffset="90" message="Second-last effort!" />
+        </SteadyState>
+
+        <!-- #34 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+        <SteadyState Duration="150" Power="0.65" pace="0" units="1">
+          <textevent distoffset="5" message="Just one more to go!" />
+          <textevent distoffset="90" message="Last effort!" />
+        </SteadyState>
+
+        <!-- #35 -->
+        <SteadyState Duration="150" Power="1.1" pace="0" units="1"/>
+
+        <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0">
+          <textevent distoffset="5" message="All done! Great work!" />
+        </Cooldown>
+    </workout>
+</workout_file>
