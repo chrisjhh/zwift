@@ -1,0 +1,30 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>Gentle progression</name>
+    <description>A 4K run that gets gradually faster.</description>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="400" PowerLow="0.78" PowerHigh="0.86" pace="2" />
+        <SteadyState Duration="200" Power="0.87" pace="2" />
+        <SteadyState Duration="200" Power="0.88" pace="2" />
+        <SteadyState Duration="200" Power="0.89" pace="2" />
+        <SteadyState Duration="200" Power="0.90" pace="2" />
+        <SteadyState Duration="200" Power="0.91" pace="2" />
+        <SteadyState Duration="200" Power="0.92" pace="2" />
+        <SteadyState Duration="200" Power="0.93" pace="2" />
+        <SteadyState Duration="200" Power="0.94" pace="2" />
+        <SteadyState Duration="200" Power="0.95" pace="2" />
+        <SteadyState Duration="200" Power="0.96" pace="2" />
+        <SteadyState Duration="200" Power="0.97" pace="2" />
+        <SteadyState Duration="200" Power="0.98" pace="2" />
+        <SteadyState Duration="200" Power="0.99" pace="2" />
+        <SteadyState Duration="200" Power="1.00" pace="2" />
+        <SteadyState Duration="200" Power="1.01" pace="2" />
+        <SteadyState Duration="200" Power="1.02" pace="2" />
+        <SteadyState Duration="200" Power="1.03" pace="2" />
+        <SteadyState Duration="200" Power="1.04" pace="2" />
+        <SteadyState Duration="200" Power="1.05" pace="2" />
+        <SteadyState Duration="200" Power="1.06" pace="2" />
+        <Cooldown Duration="400" PowerLow="0.86" PowerHigh="0.78" pace="2"/>
+    </workout>
+</workout_file>
