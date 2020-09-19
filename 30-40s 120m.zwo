@@ -1,0 +1,23 @@
+<workout_file>
+<author>Chris Hamer-Hodges</author>
+<name>30-40s 120m</name>
+<description>2 sets of 12 30-40s covering 120m</description>
+<category>Nuneaton Harriers</category>
+<sportType>run</sportType>
+<workout>
+<Warmup PowerLow="0.65" PowerHigh="0.75" Duration="1200" pace="1" units="1">
+</Warmup>
+<IntervalsT Repeat="11" OnPower="1.15" OnDuration="120" OffPower="0.87" OffDuration="120" pace="1" units="1">
+</IntervalsT>
+<SteadyState Power="1.15" Duration="120" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.65" Duration="273" pace="1" >
+</SteadyState>
+<IntervalsT Repeat="11" OnPower="1.15" OnDuration="120" OffPower="0.87" OffDuration="120" pace="1" units="1">
+</IntervalsT>
+<SteadyState Power="1.15" Duration="120" pace="1" units="1">
+</SteadyState>
+<Cooldown PowerLow="0.65" PowerHigh="0.75" Duration="800" pace="2" units="1">
+</Cooldown>
+</workout>
+</workout_file>
