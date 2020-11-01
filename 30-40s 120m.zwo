@@ -7,13 +7,19 @@
 <workout>
 <Warmup PowerLow="0.65" PowerHigh="0.75" Duration="1200" pace="1" units="1">
 </Warmup>
-<IntervalsT Repeat="11" OnPower="1.15" OnDuration="120" OffPower="0.87" OffDuration="120" pace="1" units="1">
+<IntervalsT Repeat="7" OnPower="1.15" OnDuration="120" OffPower="0.87" OffDuration="120" pace="1" units="1">
 </IntervalsT>
 <SteadyState Power="1.15" Duration="120" pace="1" units="1">
 </SteadyState>
 <SteadyState Power="0.65" Duration="273" pace="1" >
 </SteadyState>
-<IntervalsT Repeat="11" OnPower="1.15" OnDuration="120" OffPower="0.87" OffDuration="120" pace="1" units="1">
+<IntervalsT Repeat="7" OnPower="1.15" OnDuration="120" OffPower="0.87" OffDuration="120" pace="1" units="1">
+</IntervalsT>
+<SteadyState Power="1.15" Duration="120" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.65" Duration="273" pace="1" >
+</SteadyState>
+<IntervalsT Repeat="7" OnPower="1.15" OnDuration="120" OffPower="0.87" OffDuration="120" pace="1" units="1">
 </IntervalsT>
 <SteadyState Power="1.15" Duration="120" pace="1" units="1">
 </SteadyState>

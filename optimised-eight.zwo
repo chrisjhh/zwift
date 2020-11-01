@@ -1,0 +1,17 @@
+<workout_file>
+    <author>Chris Hamer-Hodges</author>
+    <name>Optimised Eight</name>
+    <description>800m with optimised efforts.</description>
+    <category>Race Training</category>
+    <sportType>run</sportType>
+    <workout>
+        <Warmup Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+
+	      <SteadyState Duration="200" Power="1.045" pace="0" units="1"/>
+        <SteadyState Duration="200" Power="0.9925" pace="0" units="1"/>
+        <SteadyState Duration="200" Power="0.9850" pace="0" units="1"/>
+        <SteadyState Duration="200" Power="0.9775" pace="0" units="1"/>
+
+        <Cooldown Duration="805" PowerLow="0.7" PowerHigh="0.8" pace="2" units="0" />
+    </workout>
+</workout_file>

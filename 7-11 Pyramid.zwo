@@ -1,0 +1,57 @@
+<workout_file>
+<author>Chris Hamer-Hodges</author>
+<name>7-11 Pyramid</name>
+<description>11-step pyramid increasing by 100m from 200m to 700m and back down in the same steps to 200m.</description>
+<category>Nuneaton Harriers</category>
+<sportType>run</sportType>
+<workout>
+<Warmup PowerLow="0.71" PowerHigh="0.78" Duration="800" pace="1" units="1">
+</Warmup>
+<SteadyState Power="1.17" Duration="200" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="1.1" Duration="300" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="1.06" Duration="400" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="1" Duration="500" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.96" Duration="600" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.95" Duration="700" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.96" Duration="600" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="1" Duration="500" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="1.06" Duration="400" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="1.1" Duration="300" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="1.17" Duration="200" pace="1" units="1">
+</SteadyState>
+<SteadyState Power="0.64" Duration="220" pace="1" units="1">
+</SteadyState>
+<Cooldown PowerLow="0.71" PowerHigh="0.78" Duration="800" pace="1" >
+</Cooldown>
+</workout>
+</workout_file>
